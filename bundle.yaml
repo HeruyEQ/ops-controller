@@ -5,4 +5,4 @@ description: "CloudBees CI configuration bundle for the HeruyEQ ops-controller C
 jcasc:
   - "jenkins.yaml"
 plugins:
-  - "plugins.yaml"
+  - "controller-plugin"
